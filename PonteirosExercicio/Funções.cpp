@@ -16,8 +16,6 @@ void multiplica_escalar(int *v1, int *v2, int x, int n)
 {
 	int i;						//contadores e indexadores genéricos
 	for (i = 0; i < n; v1++,v2++,i++)
-	{
 		*v2 = *v1 *x;
-	}
 	return;
 }

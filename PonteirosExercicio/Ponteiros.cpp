@@ -23,7 +23,5 @@ void main(void)
 	cout << "\n\tO vetor resultante" << endl;
 	//Loop para exibição do vetor resultante
 	for ( i = 0; i < QTDE_VET; i++)
-	{
 		cout << "O vetor resultante de indice " << i + 1 << " é: " << Vet1[i] << endl;
-	}
 }
