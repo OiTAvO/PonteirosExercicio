@@ -7,7 +7,7 @@ void main(void)
 		nEscalar,									//variavel que recebe o multiplicador escalar
 		Vet1[QTDE_VET],								//Vetor 1 e Vetor resultante da chamada da segunda função
 		Vet2[QTDE_VET];								//Vetor 2 e Vetor resultante da chamada da primeira função
-	PAIS_BRASIL;
+	PAIS_BRASIL;									//Acentuação Brasileira
 	//Loop para inserção de valores no vetor 1
 	for ( i = 0; i < QTDE_VET; i++)
 	{
