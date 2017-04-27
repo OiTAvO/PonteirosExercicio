@@ -3,7 +3,7 @@
 #include "Meu.h"
 void main(void)
 {
-	int i,											//contedor e indexador genérico
+	int i,											//contador e indexador genérico
 		nEscalar,									//variavel que recebe o multiplicador escalar
 		Vet1[QTDE_VET],								//Vetor 1 e Vetor resultante da chamada da segunda função
 		Vet2[QTDE_VET];								//Vetor 2 e Vetor resultante da chamada da primeira função

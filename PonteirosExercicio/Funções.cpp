@@ -1,8 +1,8 @@
 #include "Meu.h"
 int inverte_vetor(int *v1, int *v2, int n)
 {
-	int i,						//contador e indexador genérico
-		nTrono = INT_MIN;	//variavel que recebe o maior valor
+	int i,					//contador e indexador genérico
+		nTrono = INT_MIN;	//Trono do maior valor
 	for (i = 0; i < n; i++,v1++,v2--)
 	{
 		*v2 = *v1;
