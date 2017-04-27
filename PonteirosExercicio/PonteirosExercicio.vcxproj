@@ -149,6 +149,7 @@
     <ClInclude Include="Meu.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Funções.cpp" />
     <ClCompile Include="Ponteiros.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
